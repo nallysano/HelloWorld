@@ -1,0 +1,6 @@
+Started by timer
+Building in workspace /Users/laig/Jenkins/JenkinsHome/workspace/Test1
+[Test1] $ /bin/sh -xe /Users/laig/Tomcat/temp/jenkins820876823112300050.sh
++ date
+Tue Jul  4 22:23:00 CEST 2017
+Finished: SUCCESS

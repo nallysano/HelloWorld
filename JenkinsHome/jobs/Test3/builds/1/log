@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4B0mDWPkNf8N7vMzGbMevqU2NUdRt5zx59GvCTolzRR3AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISI30AYxLC68AAAAA=[0mTest2" build number [8mha:////4OKfcX11Pngjotw1zGc6Wz76Rk5+HCkiUGmAN7cqULfFAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwk/ZDU4hIjfUMAmFfO/sEAAAA=[0m1
+originally caused by:
+ Started by upstream project "[8mha:////4LNpNCyH1twx+5nWQlLfdHDz7YATKp79nCy+7uodoD/iAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISQ30AoEHvwMAAAAA=[0mTest1" build number [8mha:////4N8J8CUUEKcuWTILqG0DxumUinSeHIm+v0BNyDrsNqUbAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwk/ZDU4hJDfXMA9EzrFcEAAAA=[0m7
+ originally caused by:
+  Started by user [8mha:////4AvrUuP8vhkWfTB6tmRGudUgAFKZifsnLcIWt0qn5IsLAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZe/dLi1CL9rEygITl5AJnK5LvCAAAA[0mLan Jiang
+Building in workspace /Users/laig/Jenkins/JenkinsHome/workspace/Test3
+[Test3] $ /bin/sh -xe /Users/laig/Tomcat/temp/jenkins3973704908796942193.sh
++ pwd
+/Users/laig/Jenkins/JenkinsHome/workspace/Test3
+Finished: SUCCESS

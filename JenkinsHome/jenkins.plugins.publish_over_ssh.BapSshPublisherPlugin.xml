@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.plugins.publish__over__ssh.BapSshPublisherPlugin_-Descriptor plugin="publish-over-ssh@1.17">
+  <hostConfigurations/>
+  <commonConfig>
+    <secretPassphrase>{AQAAABAAAACQC/1UHZsr9pr5lcBnQIVqPCaNcSEXgHYHWkSyr3DZ58r99rYDOpdxwwwmCqUOvEuOm0Vxnio/87dDJEMLO5Sn1D9eHJhuLH/ATNTAYjSctY5D8WUo2nHox3henp403dnbv50UwelVdfZAIsKlz5W8QOofW/fskj6dawblvRJCsgcz9NATLDNjkcnJCZXLL2ZxmkLgsKcG450cetbto4S6uQ==}</secretPassphrase>
+    <key>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEAl6S2hv8PzCSmru+mhmaqP+fvKtKLXGhW3u20lH3HrS3uvjoXhs70ANAGceh6t8e51dp8/vQFuHYzX9zCKWFh/G1LNzX+BQAknWRLqOVCSb+9x+jDHgbvYXUtvGZVWFF/B2o+ZQXRxopWqO747MTUS7COxh6U0k2tlbHy/9pvliFiKDCXu+U69rmok6rGSZ7k4R18u8yhTZnekEAXKr35S5fVAXszRIzIXw/g5J1YsXwzjqm5TbzwBlmxds6n2OUx3t2HJ4TT2RhGQ05zppqofmEaeGood2VcmJXuRuYU7g4v1VOUqrV8oRsYdU1ZssQ9FNkaZ/C5+9n5D6KTppz laig@mun-m-laig.local
+</key>
+    <keyPath></keyPath>
+    <disableAllExec>false</disableAllExec>
+  </commonConfig>
+  <defaults class="jenkins.plugins.publish_over_ssh.options.SshPluginDefaults"/>
+</jenkins.plugins.publish__over__ssh.BapSshPublisherPlugin_-Descriptor>

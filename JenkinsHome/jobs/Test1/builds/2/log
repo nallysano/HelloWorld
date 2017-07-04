@@ -1,0 +1,6 @@
+Started by user [8mha:////4AvrUuP8vhkWfTB6tmRGudUgAFKZifsnLcIWt0qn5IsLAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZe/dLi1CL9rEygITl5AJnK5LvCAAAA[0mLan Jiang
+Building in workspace /Users/laig/Jenkins/JenkinsHome/workspace/Test1
+[Test1] $ /bin/sh -xe /Users/laig/Tomcat/temp/jenkins1581262791695998198.sh
++ date
+Tue Jul  4 22:19:08 CEST 2017
+Finished: SUCCESS

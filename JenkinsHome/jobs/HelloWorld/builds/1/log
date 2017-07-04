@@ -1,0 +1,9 @@
+Started by user [8mha:////4AvrUuP8vhkWfTB6tmRGudUgAFKZifsnLcIWt0qn5IsLAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZe/dLi1CL9rEygITl5AJnK5LvCAAAA[0mLan Jiang
+Building in workspace /Users/laig/Jenkins/JenkinsHome/workspace/HelloWorld
+[HelloWorld] $ /bin/sh -xe /Users/laig/Tomcat/temp/jenkins2995281997880310383.sh
++ cd /Users/laig/Jenkins/
++ javac App.java
++ java App
+true
+Hello world.
+Finished: SUCCESS

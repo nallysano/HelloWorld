@@ -1,0 +1,7 @@
+Started by user [8mha:////4AvrUuP8vhkWfTB6tmRGudUgAFKZifsnLcIWt0qn5IsLAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZe/dLi1CL9rEygITl5AJnK5LvCAAAA[0mLan Jiang
+Building in workspace /Users/laig/Jenkins/JenkinsHome/workspace/Test1
+[Test1] $ /bin/sh -xe /Users/laig/Tomcat/temp/jenkins6967903591368592103.sh
++ date
+Tue Jul  4 22:29:44 CEST 2017
+Triggering a new build of [8mha:////4B0mDWPkNf8N7vMzGbMevqU2NUdRt5zx59GvCTolzRR3AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JP2Q1OISI30AYxLC68AAAAA=[0mTest2
+Finished: SUCCESS
